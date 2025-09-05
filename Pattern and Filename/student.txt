@@ -1,0 +1,4 @@
+name usn sub grade
+psc 168 python A
+psc1 169 python c
+
